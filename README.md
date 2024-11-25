@@ -36,7 +36,7 @@
             <td align="center"><b><a href="https://github.com/readygreen/readygreen">언제그린</a></b></td>
             <td align="center"><b><a href="https://github.com/pianobear/pianobear">피아노배어</a></b></td>
             <td align="center"><b><a href="https://github.com/ssafywa/ssafywa">SsafyWA</a></b></td>
-            <td align="center"><b><a href="https://github.com/stem/stem">식물 줄기 마디 자동 인식 및 절단</a></b></td>
+            <td align="center"><b><a href="https://github.com/sommnee/stem_node_recognition">식물 줄기 마디 자동 인식 및 절단</a></b></td>
         </tr>
         <tr>
             <td align="center">2024.10 ~ 2024.11</td>
