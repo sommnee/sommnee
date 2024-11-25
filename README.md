@@ -1,1 +1,49 @@
-# sommni
+
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=200&section=header&text=It's%20Christina%20here~!&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=💙%20🍀&descAlignY=55&descAlign=50"/>
+</p>
+
+
+## 👋 Hello! Welcome to my GitHub!💙
+안녕하세요! 가능성을 믿고 한계에 도전하는 개발자 이소민입니다!  
+
+데이터베이스와 백엔드에 관심이 많으며 항상 밝게 웃으며 최선을 다 합니다!  
+</br>
+Hello! My name is Christina Lee, a software developer who always believes in herself and pushes beyond her limits.  
+
+I am interested in database and backend development.
+I always make sure to do my best with a smile on MY face AND the people around me!
+
+</br>  
+
+## 🎓Educations & Experiences
+- 2018.03 ~ 2024.02 서울여자대학교 소프트웨어융합학과 졸업
+- 2024.01 ~ 2024.12 삼성 청년 SW아카데미(SSAFY) 11기 이수
+ </br>
+
+## 👨‍💻Project
+- 2024.10 ~ 2024.11 [편의점/슈퍼 배달/픽업 고객 대상 재구매 상품 추천 앱, 대시보드 서비스, 우리동네단골](https://github.com/oodongdan/ODD)
+- 2024.08 ~ 2024.10 [보행자를 위해 신호등 잔여시간을 제공해주며 편리한 도보 안내를 도와주는 서비스, 언제그린](https://github.com/readygreen/readygreen)
+- 2024.07 ~ 2024.08 [어린이들을 위한 피아노 학습 서비스, 피아노배어]
+- 2024.05 ~ 2024.05 [SSAFY생들을 위한 정보 제공 커뮤니티, SsafyWA]
+
+  </br>  
+  
+
+##  💻Skill
+**LANGUAGE**
+
+<img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  
+**SUPPORT TOOL**
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/visual%20studio%20code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"> <img src="https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/mattermost-0058CC?style=for-the-badge&logo=mattermost&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sommnee&layout=compact&bg_color=31,f7cac9,92a8d1&title_color=fff&text_color=fff)
+
+## ✉️ Contact 
+<div style="display:flex; flex-direction:row;">
+      <a href="mailto:plumlee9288@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"> 
+    </a>
+</div>
