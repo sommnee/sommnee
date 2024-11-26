@@ -28,7 +28,7 @@
             <td align="center"><img src="odd.png" alt="우리동네단골" title="우리동네단골" width="150"></td>
             <td align="center"><img src="green.png" alt="언제그린" title="언제그린" width="150"></td>
             <td align="center"><img src="piano.png" alt="피아노배어" title="피아노배어" width="150"></td>
-            <td align="center"><img src="https://via.placeholder.com/150" alt="SsafyWA" title="SsafyWA" width="150"></td>
+            <td align="center"><img src="ssafywa.png" alt="SsafyWA" title="SsafyWA" width="150"></td>
             <td align="center"><img src="https://via.placeholder.com/150" alt="새로운 프로젝트" title="새로운 프로젝트" width="150"></td>
         </tr>
         <tr>
