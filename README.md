@@ -24,11 +24,11 @@
 <h1 align="center">👨‍💻 Projects</h1>
 <table align="center" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
     <tr>
-        <td align="center" style="width: 20%;"><img src="odd.png" alt="우리동네단골" title="우리동네단골" style="width: 150px; height: 150px;"></td>
-        <td align="center" style="width: 20%;"><img src="green.png" alt="언제그린" title="언제그린" style="width: 150px; height: 150px;"></td>
-        <td align="center" style="width: 20%;"><img src="pianobear.png" alt="피아노배어" title="피아노배어" style="width: 150px; height: 150px;"></td>
-        <td align="center" style="width: 20%;"><img src="ssafywa.png" alt="SsafyWA" title="SsafyWA" style="width: 150px; height: 150px;"></td>
-        <td align="center" style="width: 20%;"><img src="stem.png" alt="식물 프로젝트" title="식물 프로젝트" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="odd.png" alt="우리동네단골" title="우리동네단골" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="green.png" alt="언제그린" title="언제그린" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="pianobear.png" alt="피아노배어" title="피아노배어" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="ssafywa.png" alt="SsafyWA" title="SsafyWA" style="width: 150px; height: 150px;"></td>
+        <td align="center"><img src="stem.png" alt="식물 프로젝트" title="식물 프로젝트" style="width: 150px; height: 150px;"></td>
     </tr>
     <tr>
        <td align="center"><b><a href="https://github.com/oodongdan/ODD">우리동네단골</a></b></td>
