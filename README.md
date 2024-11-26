@@ -54,8 +54,8 @@
     <tr>
         <td align="center">재구매 상품 추천 앱 및 대시보드 서비스</td>
         <td align="center">신호등 잔여시간을 제공하는 도보 안내 서비스</td>
-        <td align="center">어린이 피아노 학습 서비스</td>
-        <td align="center">SSAFY생들을 위한 정보 커뮤니티</td>
+        <td align="center">어린이를 위한 피아노 학습 도우미 서비스</td>
+        <td align="center">SSAFY생들을 위한 정보와 소통 커뮤니티</td>
         <td align="center">식물 줄기의 마디 인식 및 절단 프로그램</td>
     </tr>
 </table>
