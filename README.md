@@ -22,45 +22,43 @@
 
 </br>
 <h1 align="center">👨‍💻 Projects</h1>
-<p align="center">
-    <table align="center">
-        <tr>
-            <td align="center"><img src="odd.png" alt="우리동네단골" title="우리동네단골" width="150"></td>
-            <td align="center"><img src="green.png" alt="언제그린" title="언제그린" width="150"></td>
-            <td align="center"><img src="piano.png" alt="피아노배어" title="피아노배어" width="150"></td>
-            <td align="center"><img src="ssafywa.png" alt="SsafyWA" title="SsafyWA" width="150"></td>
-            <td align="center"><img src="https://via.placeholder.com/150" alt="새로운 프로젝트" title="새로운 프로젝트" width="150"></td>
-        </tr>
-        <tr>
-            <td align="center"><b><a href="https://github.com/oodongdan/ODD">우리동네단골</a></b></td>
-            <td align="center"><b><a href="https://github.com/readygreen/readygreen">언제그린</a></b></td>
-            <td align="center"><b><a href="https://github.com/pianobear/pianobear">피아노배어</a></b></td>
-            <td align="center"><b><a href="https://github.com/ssafywa/ssafywa">SsafyWA</a></b></td>
-            <td align="center"><b><a href="https://github.com/sommnee/stem_node_recognition">식물 줄기 마디 자동 인식 및 절단</a></b></td>
-        </tr>
-        <tr>
-            <td align="center">2024.10 ~ 2024.11</td>
-            <td align="center">2024.08 ~ 2024.10</td>
-            <td align="center">2024.07 ~ 2024.08</td>
-            <td align="center">2024.05 ~ 2024.05</td>
-            <td align="center">2022.04 ~ 2022.10</td>
-        </tr>
-        <tr>
-            <td align="center"><b>Team Leader, BE, Data</b></td>
-            <td align="center"><b>Team Leader, BE, Data</b></td>
-            <td align="center"><b>BE</b></td>
-            <td align="center"><b>FE, BE</b></td>
-            <td align="center"><b>Data, Algorithm</b></td>
-        </tr>
-        <tr>
-            <td align="center">재구매 상품 추천 앱 및 대시보드 서비스</td>
-            <td align="center">신호등 잔여시간을 제공하는 도보 안내 서비스</td>
-            <td align="center">어린이 피아노 학습 서비스</td>
-            <td align="center">SSAFY생들을 위한 정보 커뮤니티</td>
-            <td align="center">친환경 빨대 대량 생산을 위해<br>식물 줄기의 마디를 인식 모델 구축 및 빨대 길이 검출, 절단 프로그램</td>
-        </tr>
-    </table>
-</p>
+<table align="center" style="table-layout: fixed; width: 100%; border-collapse: collapse;">
+    <tr>
+        <td align="center" style="width: 20%;"><img src="odd.png" alt="우리동네단골" title="우리동네단골" style="width: 150px; height: 150px;"></td>
+        <td align="center" style="width: 20%;"><img src="green.png" alt="언제그린" title="언제그린" style="width: 150px; height: 150px;"></td>
+        <td align="center" style="width: 20%;"><img src="pianobear.png" alt="피아노배어" title="피아노배어" style="width: 150px; height: 150px;"></td>
+        <td align="center" style="width: 20%;"><img src="ssafywa.png" alt="SsafyWA" title="SsafyWA" style="width: 150px; height: 150px;"></td>
+        <td align="center" style="width: 20%;"><img src="stem.png" alt="식물 프로젝트" title="식물 프로젝트" style="width: 150px; height: 150px;"></td>
+    </tr>
+    <tr>
+        <td align="center"><b>우리동네단골</b></td>
+        <td align="center"><b>언제그린</b></td>
+        <td align="center"><b>피아노배어</b></td>
+        <td align="center"><b>SsafyWA</b></td>
+        <td align="center"><b>식물 프로젝트</b></td>
+    </tr>
+    <tr>
+        <td align="center">2024.10 ~ 2024.11</td>
+        <td align="center">2024.08 ~ 2024.10</td>
+        <td align="center">2024.07 ~ 2024.08</td>
+        <td align="center">2024.05 ~ 2024.05</td>
+        <td align="center">2022.04 ~ 2022.10</td>
+    </tr>
+    <tr>
+        <td align="center"><b>Team Leader, BE, Data</b></td>
+        <td align="center"><b>Team Leader, BE, Data</b></td>
+        <td align="center"><b>BE</b></td>
+        <td align="center"><b>FE, BE</b></td>
+        <td align="center"><b>Data, Algorithm</b></td>
+    </tr>
+    <tr>
+        <td align="center">재구매 상품 추천 앱 및 대시보드 서비스</td>
+        <td align="center">신호등 잔여시간을 제공하는 도보 안내 서비스</td>
+        <td align="center">어린이 피아노 학습 서비스</td>
+        <td align="center">SSAFY생들을 위한 정보 커뮤니티</td>
+        <td align="center">식물 줄기의 마디 인식 및 절단 프로그램</td>
+    </tr>
+</table>
 
 </br>
 <h1 align="center">💻 Skills</h1>
